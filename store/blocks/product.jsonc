@@ -74,6 +74,7 @@
       "initialSelection": "empty",
       "showVariationsLabels":true,
       "showVariationsErrorMessage":true
+      
     }
   },
   "shipping-simulator": {
