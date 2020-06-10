@@ -98,8 +98,8 @@
   "rich-text#mobile": {
     "props": {
       "text": "# Your Coffee, Your Way \n #### New Coffee Makers Collection",
-      "textPosition": "RIGHT",
-      "textAlignment": "CENTER"
+      "textPosition": "CENTER",
+      "textAlignment": "RIGHT"
     }
     
   },
